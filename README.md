@@ -2,6 +2,8 @@
 
 Este projeto é uma API simples para um blog desenvolvida usando Django Rest Framework (DRF). O foco desse projeto é passar para a comunidade como fazer um sistema de autenticação e autorização usando JWT.
 
+Link do artigo: [link](https://www.dio.me/articles/o-guia-definitivo-de-seguranca-em-aplicacoes-django-rest-framework-autenticacao-e-autorizacao)
+
 ## Funcionalidades
 
 - Autenticação de usuários
